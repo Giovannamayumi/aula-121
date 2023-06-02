@@ -1,0 +1,45 @@
+.heading
+{
+    font-size: 25px;
+  width: 100%;
+  margin: 0px;
+  box-shadow:5px 5px 5px rgb(207, 40, 40);
+}
+.headingDiv
+{
+  background: black ; 
+  border-radius: 20px; 
+  color: white;
+  box-shadow:5px 5px 5px rgb(207, 40, 40);
+}
+.headingDiv2
+{
+  font-size: 18px ;
+  color:white;
+}
+.result_para_tag
+{
+  box-shadow:5px 5px 5px rgb(207, 40, 40);
+  font-size: 20px;
+}
+.result_para_tag span
+{
+    white-space: pre-line;
+}
+.copyRightFooter{
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width: 100%;
+    background-color: rgb(2, 1, 0);
+    line-height: 3;
+    text-align: center;
+   
+}
+canvas{
+    border:5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5px 5px rgb(207, 40, 40);
+    margin-top: 335px;
+}
+
